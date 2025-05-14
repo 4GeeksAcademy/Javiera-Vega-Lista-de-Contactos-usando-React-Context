@@ -1,0 +1,41 @@
+.contact {
+    height: 170px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+    display: flex;
+
+}
+
+.content-image {
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.image {
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin-left: 40px;
+}
+
+.data-name {
+    margin-left: 50px;
+    font-size: medium;
+    justify-content: space-between;
+
+}
+
+.data-contact {
+    font-size: small;
+    color: gray;
+}
+
+.trash {
+    background-color: white;
+}
+
+.pencil {
+    color: black;
+}
